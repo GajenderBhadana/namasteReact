@@ -1,0 +1,32 @@
+{
+  "name": "react-1",
+  "version": "1.0.0",
+  "description": "This is namaste react",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GajenderBhadana/namasteReact.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Gajender Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GajenderBhadana/namasteReact/issues"
+  },
+  "homepage": "https://github.com/GajenderBhadana/namasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browserslist": [
+    "last 2 version"
+  ]
+}
